@@ -1,13 +1,13 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  github: 'https://github.com/timqian/sideproject.guide',
+  docsRepositoryBase: 'https://github.com/timqian/sideproject.guide/blob/main',
+  titleSuffix: '',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <span className="mr-2 font-extrabold hidden md:inline">Side Project Guide</span>
+      {/* <span className="text-gray-600 font-normal hidden md:inline">
         The Next.js Static Site Generator
-      </span>
+      </span> */}
     </>
   ),
   head: (
@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerText: <>MIT {new Date().getFullYear()} © timqian.eth.</>,
   unstable_faviconGlyph: '👋',
 }
