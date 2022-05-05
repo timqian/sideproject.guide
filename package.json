@@ -1,5 +1,5 @@
 {
-  "name": "nextra",
+  "name": "sideproject.guide",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Tim Qian",
   "license": "MIT",
   "dependencies": {
     "next": "^12.1.0",
