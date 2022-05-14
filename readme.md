@@ -4,18 +4,17 @@
 [Unsplash](https://medium.com/who-what-why/how-side-projects-saved-our-startup-a83a80f3b3ae), 
 [Instagram](https://www.molfar.io/blog/2020/side-projects), [等等等等](https://www.molfar.io/blog/2020/side-projects)... 
 
-每次开启一个项目，虽然是 Side Project, 但我们内心其实隐隐在也在期待着，这个 Side Project 或许可以帮到除自己以外的人？
-或许可以让这个世界变得更好？或许可能，这个产品价值足够高，甚至带来经济回报？然而现实是，99% 的 Side Project 都永远停留在自娱自乐的情况。经历三个阶段：从 **热情满满** 到 **无人问津** 最后 **弃坑**。
+每次开启一个项目，虽然是 Side Project, 但内心其实隐隐也在期待着，这个 Side Project 或许可以帮到除自己以外的人？或许可能，这个产品价值足够高，甚至带来经济回报？然而现实是，99% 的 Side Project 都永远停留在自娱自乐的情况。经历三个阶段：从 **热情满满** 到 **无人问津** 最后 **弃坑**。
 
 如何提升 Side Project 的存活概率？每次开启一个新项目，都应该问自己下面四个问题：
 
-[**1. 如何判断一个点子的好坏？**](./pages/idea.zh.mdx)
+[**1. 如何判断一个点子的好坏？**](https://sideproject.guide/idea)
 
-[**2. 如何快速把 Side Project 做出来？**](./pages/build.zh.mdx)
+[**2. 如何快速把 Side Project 做出来？**](https://sideproject.guide/build)
 
-[**3. 如何让更多人知道这个 Side Project？**](./pages/getting-users.zh.mdx)
+[**3. 如何让更多人知道这个 Side Project？**](https://sideproject.guide/getting-users)
 
-[**4. 如何把 Side Project 变成能为自己带来收入的产品？**](./pages/making-money.zh.mdx)
+[**4. 如何把 Side Project 变成能为自己带来收入的产品？**](https://sideproject.guide/making-money)
 
 这份小手册，记录下我对这几个问题的看法，以便复用。
 
