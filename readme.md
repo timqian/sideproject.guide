@@ -9,13 +9,13 @@
 
 如何提升 Side Project 的存活概率？每次开启一个新项目，都应该问自己下面四个问题：
 
-[**如何判断一个点子的好坏？**](./pages/idea.zh.mdx)
+[**1. 如何判断一个点子的好坏？**](./pages/idea.zh.mdx)
 
-[**如何快速把 Side Project 做出来？**](./pages/build.zh.mdx)
+[**2. 如何快速把 Side Project 做出来？**](./pages/build.zh.mdx)
 
-[**如何让更多人知道这个 Side Project？**](./pages/getting-users.zh.mdx)
+[**3. 如何让更多人知道这个 Side Project？**](./pages/getting-users.zh.mdx)
 
-[**如何把 Side Project 变成能为自己带来收入的产品？**](./pages/making-money.zh.mdx)
+[**4. 如何把 Side Project 变成能为自己带来收入的产品？**](./pages/making-money.zh.mdx)
 
 这份小手册，记录下我对这几个问题的看法，以便复用。
 
