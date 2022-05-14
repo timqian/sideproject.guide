@@ -62,7 +62,7 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <iframe src="https://github.com/sponsors/timqian/button" title="Sponsor timqian" height="35" width="116" style="border: 0;"></iframe>,
+  footerText: <>MIT {new Date().getFullYear()} © <a href="https://github.com/sponsors/timqian/">timqian</a></>,
   unstable_faviconGlyph: '👋',
   i18n: [
     { locale: 'en', text: 'English' },
