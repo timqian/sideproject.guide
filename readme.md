@@ -1,4 +1,4 @@
-# Side Project 指南
+# [SideProject.Guide](https://sideproject.guide/)
 
 工作之余，很多程序员喜欢用代码建造一些小工具。有时候是为了解决一些自己或者朋友遇到的小问题，有时候是为了好玩儿。我们这行，通常称之为 Side Project。
 不过你可不要小看了这些小工具。许多伟大的产品诞生于程序员的 Side Project。 比如 [GitHub](https://gist.github.com/defunkt/6443), 
