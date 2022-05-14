@@ -62,7 +62,7 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © <a href="https://github.com/sponsors/timqian/">timqian</a></>,
+  footerText: <>By <a href="https://github.com/sponsors/timqian/">timqian</a></>,
   unstable_faviconGlyph: '👋',
   i18n: [
     { locale: 'en', text: 'English' },
