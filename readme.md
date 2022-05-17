@@ -1,34 +1,6 @@
 # [SideProject.Guide](https://sideproject.guide/)
 
-工作之余，很多程序员喜欢用代码建造一些小工具。有时候是为了解决一些自己或者朋友遇到的小问题，有时候是为了好玩儿。我们这行，通常称之为 Side Project。 不过可不能小看这些小工具。许多伟大的产品诞生于程序员的 Side Project。比如 [GitHub](https://gist.github.com/defunkt/6443), 
-[Unsplash](https://medium.com/who-what-why/how-side-projects-saved-our-startup-a83a80f3b3ae), 
-[Instagram](https://www.molfar.io/blog/2020/side-projects), [等等等等](https://www.molfar.io/blog/2020/side-projects)... 
+Source code for [sideproject.guide](https://sideproject.guide/)
 
-每次开启一个项目，虽然是 Side Project, 但内心其实隐隐也在期待着，这个 Side Project 或许可以帮到除自己以外的人？或许可能，这个产品价值足够高，甚至带来经济回报？然而现实是，99% 的 Side Project 都永远停留在自娱自乐的情况。经历三个阶段：从 **热情满满** 到 **无人问津** 最后 **弃坑**。
+[简体中文](https://sideproject.guide/zh) | [English Version](https://sideproject.guide/en)
 
-如何提升 Side Project 的存活概率？每次开启一个新项目，都应该问自己下面四个问题：
-
-[**1. 如何判断一个点子的好坏？**](https://sideproject.guide/idea)
-
-[**2. 如何快速把 Side Project 做出来？**](https://sideproject.guide/build)
-
-[**3. 如何让更多人知道这个 Side Project？**](https://sideproject.guide/getting-users)
-
-[**4. 如何把 Side Project 变成能为自己带来收入的产品？**](https://sideproject.guide/making-money)
-
-这份小手册，记录下我对这几个问题的看法，以便复用。
-
-## 参考资料
-
-除了我自己的经验和思考，本指南参考了以下资料，推荐阅读：
-
-- [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
-- [Founder Memos](https://www.julian.capital/)
-- [The indie maker handbook](https://readmake.com)
-- [Startup marketing checklist](https://github.com/draftdev/startup-marketing-checklist/blob/master/marketing-checklist.md)
-
-从 Side Project 出发变身知名产品的故事：
-
-[GitHub](https://gist.github.com/defunkt/6443), 
-[Unsplash](https://medium.com/who-what-why/how-side-projects-saved-our-startup-a83a80f3b3ae), 
-[Instagram](https://www.molfar.io/blog/2020/side-projects), [Twitter 等](https://www.molfar.io/blog/2020/side-projects)
