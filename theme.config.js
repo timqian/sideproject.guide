@@ -28,13 +28,13 @@ export default {
       <link
         rel="apple-touch-icon"
         sizes="256x256"
-        href="/favicon.png"
+        href="/favicon.ico"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="256x256"
-        href="/favicon.png"
+        href="/favicon.ico"
       />
       <meta name="msapplication-TileImage" content="/og.png" />
     </>
