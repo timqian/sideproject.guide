@@ -45,7 +45,7 @@ export default {
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>By <a href="https://github.com/sponsors/timqian/">timqian</a></>,
-  unstable_faviconGlyph: '👋',
+  // unstable_faviconGlyph: '👋',
   i18n: [
     { locale: 'en', text: 'English' },
     { locale: 'zh', text: '中文' },
