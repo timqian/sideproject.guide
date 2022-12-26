@@ -1,8 +1,6 @@
 # Source code of [sideproject.guide](https://sideproject.guide/)
 
-[简体中文](https://sideproject.guide/zh)
-
-You can also see the [English Version](https://sideproject.guide/en) site.
+[简体中文](https://sideproject.guide/zh) | [English Ver.](https://sideproject.guide/en)
 
 ## Sponsors
 
